@@ -1,0 +1,54 @@
+body
+{
+  color:#120136;
+  font-family: Raleway;
+  font-style:oblique;
+  text-align: center;
+  margin:0;
+  padding:0;
+  font-size: 1.5rem;
+}
+.message
+{
+  background-color: #4f84ad;
+  background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+#Number
+{
+  background-color: #4f84ad;
+  background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+  height:30px;
+  width:200px;
+  border-radius: 10%;
+  border-style: none;
+  outline: none;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.result
+{
+  font-weight: 600;
+
+  background-color: #aacfcf;
+  margin:0;
+  padding:40px;
+}
+h1
+{
+  text-decoration-style: dotted;
+  font-size:3.5rem;
+  padding-top: 10px;
+  height:80px;
+  margin:0;
+  background-color: #ffb6b6;
+background-image: url("https://www.transparenttextures.com/patterns/moulin.png");
+}
+.text{
+
+  padding:20px 40px 5px 40px;
+  background-color: #fde2e2;
+background-image: url("https://www.transparenttextures.com/patterns/psychedelic.png");
+}
